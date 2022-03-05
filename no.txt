@@ -1,0 +1,5 @@
+cd /home/admin123/python/function
+/bin/python3 /home/admin123/python/function/ru.py
+ayushi
+parmar
+ruksana
